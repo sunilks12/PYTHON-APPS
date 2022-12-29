@@ -1,3 +1,6 @@
 # PYTHON-APPS
 **App 1: To Do List**
-Topics covered: Loops, List, List Comprehension
+ **Topics Covered**
+   * 1: Loops
+   * 2: List, List Comprehension
+
