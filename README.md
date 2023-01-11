@@ -5,4 +5,8 @@
 *Topics Covered*
    * Loops: While, For
    * Data Types: List, String, Tuple
+   * User defined functions
+   * GUI 
+   * Standalone executors
+   
 
