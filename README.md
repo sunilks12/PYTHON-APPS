@@ -8,5 +8,7 @@
    * User defined functions
    * GUI 
    * Standalone executors
+   * Streamlit
+   * Heroku
    
 
