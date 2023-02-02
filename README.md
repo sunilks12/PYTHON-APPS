@@ -11,4 +11,10 @@
    * Streamlit
    * Heroku
    
+**App 2: Object detection and email** <br>
 
+*Topics Covered*
+* Threading
+* OpenCV
+* Streamlit
+* Email trigger
